@@ -4,3 +4,4 @@ Os laboratórios buscam explorar e exemplificar os principais Design Patterns do
 1.Strategy
 2.State
 3.Observer
+4.Chain of Responsability
