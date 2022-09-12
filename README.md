@@ -6,3 +6,5 @@ Os laboratórios buscam explorar e exemplificar os principais Design Patterns do
 3. Observer
 4. Chain of Responsability
 5. Decorator
+
+teste
